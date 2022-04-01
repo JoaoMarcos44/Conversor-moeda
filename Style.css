@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(218, 24, 62);
+}
+
+.container {
+    padding-top: 7.5rem;
+}
+
+.converted-value {
+    color: rgb(91, 51, 128);
+}
